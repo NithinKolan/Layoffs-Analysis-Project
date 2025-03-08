@@ -31,4 +31,4 @@ This project analyzes global layoffs data to uncover trends across industries, c
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/layoffs-analysis.git
+   (https://github.com/NithinKolan/Layoffs-Analysis-Project/tree/main)
